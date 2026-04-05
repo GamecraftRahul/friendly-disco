@@ -1,0 +1,107 @@
+📚 WHAT DATA SHOULD YOU ADD?
+
+For competition-level system, include:
+
+🟢 Common Symptoms
+
+Fever
+
+Cough
+
+Headache
+
+Body pain
+
+Fatigue
+
+Vomiting
+
+Diarrhea
+
+Abdominal pain
+
+Chest pain
+
+Breathlessness
+
+🟡 Diseases
+
+Dengue
+
+Malaria
+
+Typhoid
+
+Flu
+
+COVID
+
+Pneumonia
+
+Diabetes
+
+Hypertension
+
+Asthma
+
+Tuberculosis
+
+🔴 Emergency Conditions
+
+Heart attack
+
+Stroke
+
+Anaphylaxis
+
+Seizure
+
+Severe dehydration
+
+🧴 Skin Conditions (for future image module)
+
+Acne
+
+Eczema
+
+Psoriasis
+
+Fungal infection
+
+Rashes
+
+
+
+
+
+=========================================================================================================================================
+
+Condition: Dengue
+
+Overview:
+Dengue is a mosquito-borne viral infection.
+
+Causes:
+- Aedes mosquito bite
+
+Symptoms:
+- High fever
+- Severe headache
+- Pain behind eyes
+- Joint and muscle pain
+- Skin rash
+
+Complications:
+- Dengue hemorrhagic fever
+- Shock
+
+Treatment:
+- Hydration
+- Paracetamol (avoid NSAIDs)
+- Hospital monitoring in severe cases
+
+Emergency Signs:
+- Persistent vomiting
+- Bleeding gums
+- Severe abdominal pain
+- Drop in blood pressure
